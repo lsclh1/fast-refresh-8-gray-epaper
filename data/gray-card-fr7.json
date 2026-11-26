@@ -1,0 +1,95 @@
+{
+  "levels": [
+    {
+      "level": "G0",
+      "pulses": 0,
+      "median_1s": 0.0,
+      "min_1s": -1.0,
+      "max_1s": 1.0,
+      "median_0.2s": 0.0,
+      "median_10s": 0.0,
+      "sample_count_1s": 6,
+      "relative_1s": 100.0
+    },
+    {
+      "level": "G1",
+      "pulses": 1,
+      "median_1s": -7.5,
+      "min_1s": -9.0,
+      "max_1s": -6.0,
+      "median_0.2s": -6.0,
+      "median_10s": -7.0,
+      "sample_count_1s": 6,
+      "relative_1s": 92.2
+    },
+    {
+      "level": "G2",
+      "pulses": 2,
+      "median_1s": -21.5,
+      "min_1s": -22.0,
+      "max_1s": -19.0,
+      "median_0.2s": -22.0,
+      "median_10s": -19.5,
+      "sample_count_1s": 6,
+      "relative_1s": 77.6
+    },
+    {
+      "level": "G3",
+      "pulses": 3,
+      "median_1s": -33.0,
+      "min_1s": -36.0,
+      "max_1s": -29.0,
+      "median_0.2s": -33.5,
+      "median_10s": -31.5,
+      "sample_count_1s": 6,
+      "relative_1s": 65.6
+    },
+    {
+      "level": "G4",
+      "pulses": 4,
+      "median_1s": -46.0,
+      "min_1s": -47.0,
+      "max_1s": -39.0,
+      "median_0.2s": -45.5,
+      "median_10s": -44.5,
+      "sample_count_1s": 6,
+      "relative_1s": 52.1
+    },
+    {
+      "level": "G5",
+      "pulses": 5,
+      "median_1s": -56.0,
+      "min_1s": -58.0,
+      "max_1s": -50.0,
+      "median_0.2s": -58.5,
+      "median_10s": -56.0,
+      "sample_count_1s": 6,
+      "relative_1s": 41.7
+    },
+    {
+      "level": "G6",
+      "pulses": 8,
+      "median_1s": -79.5,
+      "min_1s": -83.0,
+      "max_1s": -71.0,
+      "median_0.2s": -81.5,
+      "median_10s": -79.0,
+      "sample_count_1s": 6,
+      "relative_1s": 17.2
+    },
+    {
+      "level": "G7",
+      "pulses": 17,
+      "median_1s": -96.0,
+      "min_1s": -104.0,
+      "max_1s": -88.0,
+      "median_0.2s": -99.5,
+      "median_10s": -97.0,
+      "sample_count_1s": 6,
+      "relative_1s": 0.0
+    }
+  ],
+  "min_median_gap": 7.5,
+  "min_position_gap": 3.0,
+  "max_median_drift": 2.5
+}

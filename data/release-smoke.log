@@ -1,0 +1,15 @@
+125 frame(s) at 25 FPS, 7799 bytes, frame CRC 432ab3c7
+PV FR7-VIDEO READY
+PV START fr=7 fps=25 frames=125 latest=1 routes=56
+PV PROGRESS frame=1/125 scans=0 ready=32000 late=0
+PV PROGRESS frame=26/125 scans=50 ready=31496 late=0
+PV PROGRESS frame=51/125 scans=100 ready=31496 late=0
+PV PROGRESS frame=76/125 scans=150 ready=31520 late=0
+PV PROGRESS frame=101/125 scans=200 ready=31496 late=0
+PV PROGRESS frame=125/125 scans=248 ready=31496 late=0
+PV END submitted=125 frames=125 duration_us=5000003 scans=248 max_step_us=14727 late=0 peak_late_us=6 sampled_frames=6 exact_samples=1 matching_pixels=189504 crc=432ab3c7 expected=432ab3c7 retargeted=288
+1 frame(s) at 25 FPS, 743 bytes, frame CRC 3d104955
+PV FR7-VIDEO READY
+PV START fr=7 fps=25 frames=1 latest=1 routes=56
+PV PROGRESS frame=1/1 scans=0 ready=32000 late=0
+PV END submitted=1 frames=1 duration_us=40003 scans=0 max_step_us=0 late=0 peak_late_us=3 sampled_frames=1 exact_samples=1 matching_pixels=32000 crc=3d104955 expected=3d104955 retargeted=0
